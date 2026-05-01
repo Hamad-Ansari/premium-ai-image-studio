@@ -1,3 +1,6 @@
 openai==0.28.0
 Requests==2.31.0
 streamlit==1.31.1
+streamlit
+requests
+pillow
